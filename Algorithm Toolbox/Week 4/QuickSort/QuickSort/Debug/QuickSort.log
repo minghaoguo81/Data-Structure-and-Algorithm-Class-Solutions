@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\VS_Projects\Algorithm Toolbox\Week 4\QuickSort\QuickSort\Source.cpp(25,23): warning C4018: '<': signed/unsigned mismatch
+  QuickSort.vcxproj -> D:\VS_Projects\Algorithm Toolbox\Week 4\QuickSort\Debug\QuickSort.exe

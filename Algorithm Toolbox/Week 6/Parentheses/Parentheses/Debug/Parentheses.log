@@ -1,0 +1,18 @@
+﻿  Source.cpp
+D:\VS_Projects\Algorithm Toolbox\Week 6\Parentheses\Parentheses\Source.cpp(41,21): error C2131: expression did not evaluate to a constant
+D:\VS_Projects\Algorithm Toolbox\Week 6\Parentheses\Parentheses\Source.cpp(39,24): message : failure was caused by a read of a variable outside its lifetime
+D:\VS_Projects\Algorithm Toolbox\Week 6\Parentheses\Parentheses\Source.cpp(39,24): message : see usage of 'length'
+D:\VS_Projects\Algorithm Toolbox\Week 6\Parentheses\Parentheses\Source.cpp(41,31): error C2131: expression did not evaluate to a constant
+D:\VS_Projects\Algorithm Toolbox\Week 6\Parentheses\Parentheses\Source.cpp(39,24): message : failure was caused by a read of a variable outside its lifetime
+D:\VS_Projects\Algorithm Toolbox\Week 6\Parentheses\Parentheses\Source.cpp(39,24): message : see usage of 'length'
+D:\VS_Projects\Algorithm Toolbox\Week 6\Parentheses\Parentheses\Source.cpp(42,21): error C2131: expression did not evaluate to a constant
+D:\VS_Projects\Algorithm Toolbox\Week 6\Parentheses\Parentheses\Source.cpp(39,24): message : failure was caused by a read of a variable outside its lifetime
+D:\VS_Projects\Algorithm Toolbox\Week 6\Parentheses\Parentheses\Source.cpp(39,24): message : see usage of 'length'
+D:\VS_Projects\Algorithm Toolbox\Week 6\Parentheses\Parentheses\Source.cpp(42,31): error C2131: expression did not evaluate to a constant
+D:\VS_Projects\Algorithm Toolbox\Week 6\Parentheses\Parentheses\Source.cpp(39,24): message : failure was caused by a read of a variable outside its lifetime
+D:\VS_Projects\Algorithm Toolbox\Week 6\Parentheses\Parentheses\Source.cpp(39,24): message : see usage of 'length'
+D:\VS_Projects\Algorithm Toolbox\Week 6\Parentheses\Parentheses\Source.cpp(49,18): error C3863: array type '__int64 [numOfnum][numOfnum]' is not assignable
+D:\VS_Projects\Algorithm Toolbox\Week 6\Parentheses\Parentheses\Source.cpp(50,18): error C3863: array type '__int64 [numOfnum][numOfnum]' is not assignable
+D:\VS_Projects\Algorithm Toolbox\Week 6\Parentheses\Parentheses\Source.cpp(70,19): error C3863: array type '__int64 [numOfnum][numOfnum]' is not assignable
+D:\VS_Projects\Algorithm Toolbox\Week 6\Parentheses\Parentheses\Source.cpp(71,19): error C3863: array type '__int64 [numOfnum][numOfnum]' is not assignable
+D:\VS_Projects\Algorithm Toolbox\Week 6\Parentheses\Parentheses\Source.cpp(76,1): error C2036: '__int64 [numOfnum][numOfnum]': unknown size

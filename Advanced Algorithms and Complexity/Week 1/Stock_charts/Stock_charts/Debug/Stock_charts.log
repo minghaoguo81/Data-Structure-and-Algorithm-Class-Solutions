@@ -1,0 +1,9 @@
+﻿  Stock_charts.cpp
+D:\VS_Projects\Advanced Algorithms and Complexity\Week 1\Stock_charts\Stock_charts\Stock_charts.cpp(66,23): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\Advanced Algorithms and Complexity\Week 1\Stock_charts\Stock_charts\Stock_charts.cpp(67,27): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\Advanced Algorithms and Complexity\Week 1\Stock_charts\Stock_charts\Stock_charts.cpp(82,23): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\Advanced Algorithms and Complexity\Week 1\Stock_charts\Stock_charts\Stock_charts.cpp(87,23): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\Advanced Algorithms and Complexity\Week 1\Stock_charts\Stock_charts\Stock_charts.cpp(91,27): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\Advanced Algorithms and Complexity\Week 1\Stock_charts\Stock_charts\Stock_charts.cpp(100,31): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\Advanced Algorithms and Complexity\Week 1\Stock_charts\Stock_charts\Stock_charts.cpp(116,36): warning C4018: '<=': signed/unsigned mismatch
+  Stock_charts.vcxproj -> D:\VS_Projects\Advanced Algorithms and Complexity\Week 1\Stock_charts\Debug\Stock_charts.exe

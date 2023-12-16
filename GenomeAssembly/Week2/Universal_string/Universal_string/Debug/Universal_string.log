@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\VS_Projects\GenomeAssembly\Week2\Universal_string\Universal_string\Source.cpp(42,26): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\GenomeAssembly\Week2\Universal_string\Universal_string\Source.cpp(57,23): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\GenomeAssembly\Week2\Universal_string\Universal_string\Source.cpp(69,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Universal_string.vcxproj -> D:\VS_Projects\GenomeAssembly\Week2\Universal_string\Debug\Universal_string.exe

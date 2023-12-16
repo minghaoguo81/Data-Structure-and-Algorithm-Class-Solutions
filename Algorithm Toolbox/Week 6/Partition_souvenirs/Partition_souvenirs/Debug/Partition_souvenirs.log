@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\VS_Projects\Algorithm Toolbox\Week 6\Partition_souvenirs\Partition_souvenirs\Source.cpp(68,23): warning C4018: '<': signed/unsigned mismatch
+  Partition_souvenirs.vcxproj -> D:\VS_Projects\Algorithm Toolbox\Week 6\Partition_souvenirs\Debug\Partition_souvenirs.exe

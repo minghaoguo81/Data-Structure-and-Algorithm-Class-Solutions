@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\VS_Projects\Algorithm Toolbox\Week 4\Closest_points\Closest_points\Source.cpp(41,23): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\Algorithm Toolbox\Week 4\Closest_points\Closest_points\Source.cpp(42,28): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\Algorithm Toolbox\Week 4\Closest_points\Closest_points\Source.cpp(107,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Closest_points.vcxproj -> D:\VS_Projects\Algorithm Toolbox\Week 4\Closest_points\Debug\Closest_points.exe

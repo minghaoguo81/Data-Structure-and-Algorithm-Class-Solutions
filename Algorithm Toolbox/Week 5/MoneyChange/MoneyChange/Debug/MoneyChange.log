@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\VS_Projects\Algorithm Toolbox\Week 5\MoneyChange\MoneyChange\Source.cpp(6,1): warning C4005: 'INT32_MAX': macro redefinition
+D:\Microsoft Visual Studio 2019\VC\Tools\MSVC\14.29.30133\include\stdint.h(55): message : see previous definition of 'INT32_MAX'
+D:\VS_Projects\Algorithm Toolbox\Week 5\MoneyChange\MoneyChange\Source.cpp(15,23): warning C4018: '<=': signed/unsigned mismatch
+D:\VS_Projects\Algorithm Toolbox\Week 5\MoneyChange\MoneyChange\Source.cpp(21,10): warning C4018: '>=': signed/unsigned mismatch
+  MoneyChange.vcxproj -> D:\VS_Projects\Algorithm Toolbox\Week 5\MoneyChange\Debug\MoneyChange.exe

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\VS_Projects\GenomeAssembly\Week1\Error_freeRead\Error_freeRead\Source.cpp(34,27): warning C4018: '<': signed/unsigned mismatch
+  Error_freeRead.vcxproj -> D:\VS_Projects\GenomeAssembly\Week1\Error_freeRead\Debug\Error_freeRead.exe

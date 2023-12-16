@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\VS_Projects\Data Structure\Week 1\Check_brackets\Check_brackets\Source.cpp(17,20): warning C4018: '<': signed/unsigned mismatch
+  Check_brackets.vcxproj -> D:\VS_Projects\Data Structure\Week 1\Check_brackets\Debug\Check_brackets.exe

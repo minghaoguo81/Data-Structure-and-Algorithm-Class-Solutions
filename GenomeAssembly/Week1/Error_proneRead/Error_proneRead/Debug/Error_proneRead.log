@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\VS_Projects\GenomeAssembly\Week1\Error_proneRead\Error_proneRead\Source.cpp(63,27): warning C4018: '<': signed/unsigned mismatch
+  Error_proneRead.vcxproj -> D:\VS_Projects\GenomeAssembly\Week1\Error_proneRead\Debug\Error_proneRead.exe

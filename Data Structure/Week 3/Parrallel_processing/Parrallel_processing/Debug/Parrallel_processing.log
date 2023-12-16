@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\VS_Projects\Data Structure\Week 3\Parrallel_processing\Parrallel_processing\Source.cpp(22,21): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\Data Structure\Week 3\Parrallel_processing\Parrallel_processing\Source.cpp(44,21): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\Data Structure\Week 3\Parrallel_processing\Parrallel_processing\Source.cpp(73,21): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\Data Structure\Week 3\Parrallel_processing\Parrallel_processing\Source.cpp(77,34): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\Data Structure\Week 3\Parrallel_processing\Parrallel_processing\Source.cpp(101,21): warning C4018: '<': signed/unsigned mismatch
+  Parrallel_processing.vcxproj -> D:\VS_Projects\Data Structure\Week 3\Parrallel_processing\Debug\Parrallel_processing.exe

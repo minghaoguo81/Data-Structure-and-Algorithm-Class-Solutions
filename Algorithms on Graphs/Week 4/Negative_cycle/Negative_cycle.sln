@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Negative_cycle", "Negative_cycle\Negative_cycle.vcxproj", "{0E31F2E9-66A4-40C6-950B-6F23B223AB7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E31F2E9-66A4-40C6-950B-6F23B223AB7E}.Debug|x64.ActiveCfg = Debug|x64
+		{0E31F2E9-66A4-40C6-950B-6F23B223AB7E}.Debug|x64.Build.0 = Debug|x64
+		{0E31F2E9-66A4-40C6-950B-6F23B223AB7E}.Debug|x86.ActiveCfg = Debug|Win32
+		{0E31F2E9-66A4-40C6-950B-6F23B223AB7E}.Debug|x86.Build.0 = Debug|Win32
+		{0E31F2E9-66A4-40C6-950B-6F23B223AB7E}.Release|x64.ActiveCfg = Release|x64
+		{0E31F2E9-66A4-40C6-950B-6F23B223AB7E}.Release|x64.Build.0 = Release|x64
+		{0E31F2E9-66A4-40C6-950B-6F23B223AB7E}.Release|x86.ActiveCfg = Release|Win32
+		{0E31F2E9-66A4-40C6-950B-6F23B223AB7E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E19B2177-7FAE-454F-A673-93FABB3EE3F7}
+	EndGlobalSection
+EndGlobal

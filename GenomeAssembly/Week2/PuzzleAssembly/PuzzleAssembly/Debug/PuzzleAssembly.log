@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\VS_Projects\GenomeAssembly\Week2\PuzzleAssembly\PuzzleAssembly\Source.cpp(46,27): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\GenomeAssembly\Week2\PuzzleAssembly\PuzzleAssembly\Source.cpp(50,27): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\GenomeAssembly\Week2\PuzzleAssembly\PuzzleAssembly\Source.cpp(54,27): warning C4018: '<=': signed/unsigned mismatch
+D:\VS_Projects\GenomeAssembly\Week2\PuzzleAssembly\PuzzleAssembly\Source.cpp(58,27): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\GenomeAssembly\Week2\PuzzleAssembly\PuzzleAssembly\Source.cpp(93,34): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\GenomeAssembly\Week2\PuzzleAssembly\PuzzleAssembly\Source.cpp(96,31): warning C4018: '<': signed/unsigned mismatch
+  PuzzleAssembly.vcxproj -> D:\VS_Projects\GenomeAssembly\Week2\PuzzleAssembly\Debug\PuzzleAssembly.exe

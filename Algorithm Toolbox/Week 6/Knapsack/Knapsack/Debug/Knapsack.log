@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\VS_Projects\Algorithm Toolbox\Week 6\Knapsack\Knapsack\Source.cpp(10,23): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\Algorithm Toolbox\Week 6\Knapsack\Knapsack\Source.cpp(20,24): warning C4018: '<': signed/unsigned mismatch
+D:\VS_Projects\Algorithm Toolbox\Week 6\Knapsack\Knapsack\Source.cpp(25,10): warning C4018: '>=': signed/unsigned mismatch
+  Knapsack.vcxproj -> D:\VS_Projects\Algorithm Toolbox\Week 6\Knapsack\Debug\Knapsack.exe
